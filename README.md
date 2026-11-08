@@ -97,8 +97,8 @@ Local-first lead discovery and outreach assistant with fit scoring and human-app
 ## GitHub activity
 
 <p>
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=shamithx&show_icons=true&hide_title=true&hide_rank=true&theme=default&border_color=e5e7eb" alt="GitHub stats">
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamithx&layout=compact&hide_title=true&theme=default&border_color=e5e7eb" alt="Top languages">
+<a href="https://github.com/shamithx?tab=repositories"><img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shamithx&theme=default" alt="GitHub stats"></a>
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamithx&theme=default" alt="Top languages by repository">
 </p>
 
 ---
